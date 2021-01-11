@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>cmpintl/users-manager-service</context-root>
+</jboss-web>
